@@ -1,4 +1,4 @@
-# Image_Viewer
+# Image Viewer
 
 An interactive mobile application that allows users to load images, and display these images in a dynamic layout that responds to device orientation. Users can rate images (1-5), and filter them based on this rating
 
